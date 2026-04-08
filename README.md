@@ -30,15 +30,18 @@ Not mathematically guaranteed optimal.
 .NET 8 SDK, Docker 20+
 
 ---
+# Clone
+
+```bash
+git clone https://github.com/Matthieu-Jck/PowerPlantApi-CSharp.git
+cd PowerPlantApi-CSharp
+```
 
 # Build and Run
 
 ## Option 1 — .NET CLI
 
 ```bash
-git clone https://github.com/Matthieu-Jck/PowerPlantApi-CSharp.git
-cd PowerPlantApi-CSharp
-
 dotnet run --project PowerPlantApi
 ```
 
